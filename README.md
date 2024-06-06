@@ -1,3 +1,3 @@
-# Workshop
+# Greenplum Workshop
 
-Workshop description
+Greenplum getting started workshop.
