@@ -2,4 +2,4 @@
 title: Workshop Overview
 ---
 
-This is the initial landing page for your workshop. Include in this page a description of what your workshop is about.
+Open the Jupyter tab and enter the password `jupyter` to enter Jupyter notebooks. From there, you can open the example `test.ipynb` to try out working with Greenplum.

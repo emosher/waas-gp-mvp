@@ -16,6 +16,10 @@ spec:
       - /workshop/**
       - /exercises/**
       - /README.md
+      - test.ipynb
+      excludePaths:
+      - .vscode/**
+      - .gitignore
   session:
     namespaces:
       budget: medium
